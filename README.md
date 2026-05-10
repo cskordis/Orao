@@ -7,3 +7,4 @@ The 16K rom developed here contains the original rom in the first 8K and the mod
 
 In the ROM section, the file orao-1.3-bascrt-bin.bin is the original Basic rom, where the orao-1_3-bascrt-bin-HRUS.bin file is the modified rom.
 
+Reference https://en.wikipedia.org/wiki/Orao_(computer)
